@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.2/17253
 // Filename: nook II.ggsk
-// Generated ven. janv. 21 10:31:19 2022
+// Generated ven. janv. 21 11:32:11 2022
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnail_menu', 2, true);
