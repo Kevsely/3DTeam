@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17253" appversion="6.0.2" start="node1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelbiashidpi="1.000" levelingpitch="0" height="2048" leveltilesize="516" levelbias="0.400" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata description="" copyright="" info="" title="" author="" datetime="" tags="01 Projet BOUSSARI" source="" customnodeid="" comment="" latitude="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" height="20" backgroundalpha="1" enabled="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" background="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomout="0" blendtime="1" zoomoutpause="1"/>
+    <autorotate startloaded="0" nodedelay="0.00" delay="1.00" noderandom="1" enabled="1" useanimation="0" returntohorizon="0.000" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" lockedmouse="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="1" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3200" levelbiashidpi="1.000" levelingpitch="0" height="3200" leveltilesize="516" levelbias="0.400" overlap="1">
+      <level width="3200" height="3200" preload="0" predecode="0"/>
+      <level width="1600" height="1600" preload="0" predecode="0"/>
+      <level width="800" height="800" preload="0" predecode="0"/>
+      <level width="400" height="400" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata description="" copyright="" info="" title="" author="" datetime="" tags="01 Projet BOUSSARI" source="" customnodeid="" comment="" latitude="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" height="20" backgroundalpha="1" enabled="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" background="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomout="0" blendtime="1" zoomoutpause="1"/>
+    <autorotate startloaded="0" nodedelay="0.00" delay="1.00" noderandom="1" enabled="1" useanimation="0" returntohorizon="0.000" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" lockedmouse="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="1" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3200" levelbiashidpi="1.000" levelingpitch="0" height="3200" leveltilesize="516" levelbias="0.400" overlap="1">
+      <level width="3200" height="3200" preload="0" predecode="0"/>
+      <level width="1600" height="1600" preload="0" predecode="0"/>
+      <level width="800" height="800" preload="0" predecode="0"/>
+      <level width="400" height="400" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata description="" copyright="" info="" title="" author="" datetime="" tags="01 Projet BOUSSARI" source="" customnodeid="" comment="" latitude="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" height="20" backgroundalpha="1" enabled="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" background="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomout="0" blendtime="1" zoomoutpause="1"/>
+    <autorotate startloaded="0" nodedelay="0.00" delay="1.00" noderandom="1" enabled="1" useanimation="0" returntohorizon="0.000" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" lockedmouse="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="1" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3200" levelbiashidpi="1.000" levelingpitch="0" height="3200" leveltilesize="516" levelbias="0.400" overlap="1">
+      <level width="3200" height="3200" preload="0" predecode="0"/>
+      <level width="1600" height="1600" preload="0" predecode="0"/>
+      <level width="800" height="800" preload="0" predecode="0"/>
+      <level width="400" height="400" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata description="" copyright="" info="" title="" author="" datetime="" tags="01 Projet BOUSSARI" source="" customnodeid="" comment="" latitude="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" height="20" backgroundalpha="1" enabled="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" background="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomout="0" blendtime="1" zoomoutpause="1"/>
+    <autorotate startloaded="0" nodedelay="0.00" delay="1.00" noderandom="1" enabled="1" useanimation="0" returntohorizon="0.000" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" lockedmouse="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="1" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" copyright="" info="" title="" author="" datetime="" tags="" source="" customnodeid="" comment="" latitude="" longitude=""/>
+  </masternode>
+</tour>
