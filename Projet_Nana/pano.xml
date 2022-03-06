@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.0.2" apprev="17253">
+  <panorama id="node2">
+    <input width="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" height="2500" leveltilesize="510" overlap="1">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata title="" source="" comment="" author="" longitude="" description="" info="" tags="02 Duplex Mr NANA" customnodeid="" datetime="" latitude="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" height="20" borderalpha="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomin="0" enabled="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" dblclickfullscreen="1" invertcontrol="1" lockedkeyboard="0" sensitivity="20" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" height="2500" leveltilesize="510" overlap="1">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata title="" source="" comment="" author="" longitude="" description="" info="" tags="02 Duplex Mr NANA" customnodeid="" datetime="" latitude="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" height="20" borderalpha="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomin="0" enabled="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" dblclickfullscreen="1" invertcontrol="1" lockedkeyboard="0" sensitivity="20" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" height="2500" leveltilesize="510" overlap="1">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata title="" source="" comment="" author="" longitude="" description="" info="" tags="02 Duplex Mr NANA" customnodeid="" datetime="" latitude="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" height="20" borderalpha="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomin="0" enabled="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" dblclickfullscreen="1" invertcontrol="1" lockedkeyboard="0" sensitivity="20" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2500" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" height="2500" leveltilesize="510" overlap="1">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata title="" source="" comment="" author="" longitude="" description="" info="" tags="02 Duplex Mr NANA" customnodeid="" datetime="" latitude="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" height="20" borderalpha="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomin="0" enabled="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" dblclickfullscreen="1" invertcontrol="1" lockedkeyboard="0" sensitivity="20" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" source="" comment="" author="" longitude="" description="" info="" tags="" customnodeid="" datetime="" latitude="" copyright=""/>
+  </masternode>
+</tour>
