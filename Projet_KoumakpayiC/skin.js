@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.2/17253
 // Filename: Vide 3D TEAM ss logo.ggsk
-// Generated dim. juin 26 22:34:54 2022
+// Generated sam. juil. 2 13:21:56 2022
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_3d_preview', 2, true);
